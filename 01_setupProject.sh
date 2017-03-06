@@ -5,7 +5,7 @@
 # unzip it, 
 ##########################################################
 
-
+#Add a comment to a script on Github
 echo Creating project directory structure
 sleep 2
 mkdir -v data code output data/archive
